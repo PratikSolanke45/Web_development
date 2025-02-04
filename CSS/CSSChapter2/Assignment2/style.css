@@ -1,0 +1,39 @@
+div[id="mainTopic"] h1 {
+    color: blue;
+}
+
+* {
+    text-align: center;
+}
+
+h1 {
+    font-family: Georgia;
+}
+
+h3{
+    font-family: Georgia;
+}
+
+.post{
+    color: white;
+    background-color: cornflowerblue;
+}
+
+button{
+    background-color: purple;
+    text-decoration: azure;
+}
+
+button:hover{
+    background-color: yellow;
+    text-decoration: blue;
+}
+
+h1::first-letter{
+    color: red;
+}
+
+input[type="radio"]:checked + label{
+    color: rgb(100, 25, 0);
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+#container {
+    height: 665px;
+    width: 610px;
+    background-color: azure;
+    border-radius: 5%;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+
